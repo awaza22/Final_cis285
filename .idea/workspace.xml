@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073edb1f-5e39-41f4-9fb6-d2f965fff4ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/calculatortest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/calculatortest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="073edb1f-5e39-41f4-9fb6-d2f965fff4ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

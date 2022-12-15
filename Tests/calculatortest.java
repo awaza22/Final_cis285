@@ -18,6 +18,13 @@ public class calculatortest {
         assertEquals (8,value);
     }
 
+    @Test
+    public void testMax()
+    {
+        int value = calculator.add(156600, 2);
+        assertEquals (156602,value);
+    }
+
 
 
 }
